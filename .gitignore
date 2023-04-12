@@ -1,0 +1,10 @@
+data/*
+checkpoints/*
+figs/*
+pretrainModel/*
+recon_images/*
+*.pyc
+*.png
+*.tif
+*.zip
+__pycache__
